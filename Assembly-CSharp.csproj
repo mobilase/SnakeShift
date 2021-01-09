@@ -598,6 +598,9 @@
  <Reference Include="Unity.VSCode.Editor">
  <HintPath>C:/Projects/Unity/SnakeShift/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="UnityWakatime">
+ <HintPath>C:/Projects/Unity/SnakeShift/Library/ScriptAssemblies/UnityWakatime.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Projects/Unity/SnakeShift/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
